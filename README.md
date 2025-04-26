@@ -8,7 +8,7 @@ Uma revisão sistemática da literatura é uma forma de estudo secundário meio 
 
 ## 📚 Materiais
 
-Os materiais do minicurso estão dentro da pasta `material` onde estão separados por categorias. Os materiais estão organizados da seguinte forma:
+Os materiais do minicurso estão dentro da pasta `materiais` onde estão separados por categorias. Os materiais estão organizados da seguinte forma:
 
 | **Pasta** | **Descrição** |
 |-------|-----------|
